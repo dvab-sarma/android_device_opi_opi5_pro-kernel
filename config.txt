@@ -1,0 +1,3 @@
+fdtfile=rk3588s-orangepi-5-pro-1.dtb
+fdtoverlay=android-sdcard.dtbo
+recovery=false
