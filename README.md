@@ -7,19 +7,19 @@ In config.txt file, change the value(s) as follows
 
 To select the desired boot device - 
 
-for sdcard - 
+for sdcard -
 boot_device=mmc
 boot_devnum=0
 
-for emmc - 
+for emmc -
 boot_device=mmc
 boot_devnum=1
 
-for NVME - 
+for NVME -
 boot_device=nvme
 boot_devnum=0
 
-for USB - 
+for USB -
 boot_device=usb
 boot_devnum=0
 
