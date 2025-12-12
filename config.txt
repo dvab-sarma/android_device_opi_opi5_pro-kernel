@@ -1,4 +1,4 @@
-boot_device=nvme
+boot_device=mmc
 boot_devnum=0
 boot_partnum=1
 root_partnum=2
