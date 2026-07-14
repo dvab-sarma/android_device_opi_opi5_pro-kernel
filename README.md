@@ -1,4 +1,4 @@
-AOSP 16 device Kernel files for Orangepi 5 Pro.
+AOSP 17 device Kernel files for Orangepi 5 Pro.
 
 The project supports booting from NVME, USB, SD-card, EMMC.
 
@@ -33,16 +33,6 @@ To select for another board, Just change the value of fdtfile to their respectiv
 
 If want to boot into TWRP recovery, Just change the value of recovery from false to true.
 
-Note -  TWRP recovery has a bug where it boots fine in the background but doesnt show the image on the screen. The fix for it is just reconnect the hdmi.
-
-Not working -
-
-Camera
-3.5 mm audio
-
-Working -
-
-everything else including vulkan.
 
 This project can be ported to any device which utilises Rockchip SoC with minor changes.
 
